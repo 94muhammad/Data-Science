@@ -1,2 +1,2 @@
 ## Machine-Learning
-#### A simple guide to Machine Learning techniques
+#### A guide to Machine Learning techniques
