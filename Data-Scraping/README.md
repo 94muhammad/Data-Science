@@ -1,1 +1,1 @@
-Scraped a website for a personal project. Use the code snippet if you find it useful 
+Scraped a website using BeautifulSoup4 for a personal project. The website lacked sementic markup at the time of writing this script.
